@@ -1,0 +1,50 @@
+.cuerpo {
+	margin: 0; 
+  	background-image: url("/static/imagenes/fondo.png");
+  	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+    position: relative;
+    overflow: hidden;
+}
+
+#logoLogin {
+	width: 50%;
+	height: auto;
+}
+
+#etiquetas {
+	background-color: #ffffff;
+}
+
+#banner {
+	background-image: url("/static/imagenes/banner.png");
+	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+  	position: relative;
+  	overflow: hidden;
+  	color: white;
+  	font-family: Monaco;
+  	font-size: 150%;
+}
+
+body {
+	background-color: #1b0140;
+	
+}
+
+#estatusServidor{
+	background-color: white;
+	border-bottom: 6px solid #380b8d;
+}
+
+#imagen{
+	display:block;
+	margin:auto;
+}
+
+#status {
+	width: 50%; 
+	height: auto;
+}
